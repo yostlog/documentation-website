@@ -3,6 +3,7 @@ layout: default
 title: Cluster APIs
 has_children: true
 nav_order: 15
+parent: REST API reference
 redirect_from:
   - /opensearch/api-reference/cluster-api/
 ---

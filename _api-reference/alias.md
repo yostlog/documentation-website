@@ -2,6 +2,7 @@
 layout: default
 title: Alias
 nav_order: 5
+parent: REST API reference
 redirect_from: 
  - /opensearch/rest-api/alias/
 ---

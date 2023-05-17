@@ -3,6 +3,7 @@ layout: default
 title: Script APIs
 has_children: true
 nav_order: 70
+parent: REST API reference
 redirect_from:
   - /opensearch/rest-api/script-apis/
 ---

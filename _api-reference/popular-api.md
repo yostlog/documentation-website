@@ -2,6 +2,7 @@
 layout: default
 title: Popular APIs
 nav_order: 96
+parent: REST API reference
 redirect_from:
   - /opensearch/popular-api/
 ---

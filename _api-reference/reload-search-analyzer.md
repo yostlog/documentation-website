@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Reload search analyzer
+parent: REST API reference
 nav_order: 65
 ---
 

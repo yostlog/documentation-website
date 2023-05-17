@@ -2,6 +2,7 @@
 layout: default
 title: Tasks
 nav_order: 85
+parent: REST API reference
 redirect_from:
  - /opensearch/rest-api/tasks/
 ---

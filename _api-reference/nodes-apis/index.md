@@ -2,6 +2,7 @@
 layout: default
 title: Nodes APIs
 has_children: true
+parent: REST API reference
 nav_order: 50
 ---
 

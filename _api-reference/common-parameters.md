@@ -2,6 +2,7 @@
 layout: default
 title: Common REST Parameters
 nav_order: 93
+parent: REST API reference
 redirect_from:
   - /opensearch/common-parameters/
 ---

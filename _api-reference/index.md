@@ -3,6 +3,7 @@ layout: default
 title: REST API reference
 nav_order: 1
 has_toc: true
+has_children: true
 nav_exclude: true
 redirect_from:
   - /opensearch/rest-api/index/
@@ -10,7 +11,7 @@ redirect_from:
 
 # REST API reference
 
-OpenSearch uses its REST API for most operations. This _incomplete_ section includes REST API paths, HTTP verbs, supported parameters, request body details, and example responses.
+You can use REST APIs for most operations in OpenSearch. The OpenSearch REST API reference includes the REST API paths, HTTP verbs, supported parameters, request body details, and example responses.
 
-In general, the OpenSearch REST API is no different from the Elasticsearch OSS REST API; most client code that worked with Elasticsearch OSS should also work with OpenSearch.
+Most REST APIs are included here and we are working to get full coverage. If any are missing, feel free to enter feedback or submit a pull request. 
 {: .tip }

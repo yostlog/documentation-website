@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ranking evaluation
+parent: REST API reference
 nav_order: 60
 ---
 

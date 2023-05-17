@@ -2,6 +2,7 @@
 layout: default
 title: Scroll
 nav_order: 71
+parent: REST API reference
 redirect_from:
  - /opensearch/rest-api/scroll/
 ---

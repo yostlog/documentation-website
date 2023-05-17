@@ -2,6 +2,7 @@
 layout: default
 title: Count
 nav_order: 21
+parent: REST API reference
 redirect_from: 
  - /opensearch/rest-api/count/
 ---

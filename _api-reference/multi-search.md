@@ -2,6 +2,7 @@
 layout: default
 title: Multi-search
 nav_order: 45
+parent: REST API reference
 redirect_from: 
  - /opensearch/rest-api/multi-search/
 ---

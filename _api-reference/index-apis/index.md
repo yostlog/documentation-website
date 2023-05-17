@@ -3,6 +3,7 @@ layout: default
 title: Index APIs
 has_children: true
 nav_order: 35
+parent: REST API reference
 redirect_from:
   - /opensearch/rest-api/index-apis/
 ---

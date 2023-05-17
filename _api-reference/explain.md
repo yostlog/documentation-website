@@ -2,6 +2,7 @@
 layout: default
 title: Explain
 nav_order: 30
+parent: REST API reference
 redirect_from: 
  - /opensearch/rest-api/explain/
 ---

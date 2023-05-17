@@ -2,6 +2,7 @@
 layout: default
 title: Supported units
 nav_order: 90
+parent: REST API reference
 redirect_from:
   - /opensearch/units/
 ---

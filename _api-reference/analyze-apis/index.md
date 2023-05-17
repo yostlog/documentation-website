@@ -3,6 +3,7 @@ layout: default
 title: Analyze API
 has_children: true
 nav_order: 7
+parent: REST API reference
 redirect_from:
   - /opensearch/rest-api/analyze-apis/
 ---

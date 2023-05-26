@@ -1,6 +1,7 @@
 ---
 layout: default
 title: IP2Geo 
+title: IP2Geo 
 grand_parent: Ingest APIs
 parent: Processors
 nav_order: 20

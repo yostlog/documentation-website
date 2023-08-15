@@ -2,7 +2,7 @@
 layout: default
 title: Core APIs
 parent: Managing Data Prepper
-nav_order: 15
+nav_order: 25
 ---
 
 # Core APIs

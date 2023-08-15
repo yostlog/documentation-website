@@ -2,7 +2,7 @@
 layout: default
 title: Configuring Log4j
 parent: Managing Data Prepper
-nav_order: 20
+nav_order: 10
 ---
 
 # Configuring Log4j

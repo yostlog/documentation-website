@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Peer forwarder
-nav_order: 12
+nav_order: 35
 parent: Managing Data Prepper
 ---
 

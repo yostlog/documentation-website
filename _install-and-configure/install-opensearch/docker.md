@@ -458,7 +458,7 @@ To use the OpenSearch image with a custom plugin, you must first create a [`Dock
 FROM opensearchproject/opensearch:latest
 RUN /usr/share/opensearch/bin/opensearch-plugin install --batch <pluginId>
 ```
-For native plugins, you can enter just the ID, for example, `install repository-s3`. For more information about the native plugins, see https://github.com/opensearch-project/OpenSearch/tree/main/plugins. For non-native plugins, enter the the full url or zip file name on disk.
+For native plugins, you can enter the ID, for example, `install repository-s3`. For more information about the native plugins, see https://github.com/opensearch-project/OpenSearch/tree/main/plugins. For non-native plugins, enter the full url or zip file name on disk.
 
 Then run the following commands:
 ```bash

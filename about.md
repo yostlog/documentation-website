@@ -26,7 +26,7 @@ Its distributed design means that you interact with OpenSearch *clusters*. Each 
 
 You can run OpenSearch locally on a laptop---its system requirements are minimal---but you can also scale a single cluster to hundreds of powerful machines in a data center.
 
-In a single node cluster, such as a laptop, one machine has to do everything: manage the state of the cluster, index and search data, and perform any preprocessing of data prior to indexing it. As a cluster grows, however, you can subdivide responsibilities. Nodes with fast disks and plenty of RAM might be great at indexing and searching data, whereas a node with plenty of CPU power and a tiny disk could manage cluster state. For more information on setting node types, see [Cluster formation]({{site.url}}{{site.baseurl}}/opensearch/cluster/).
+In a single node cluster, such as a laptop, one machine has to do everything: manage the state of the cluster, index and search data, and perform any preprocessing of data prior to indexing it. As a cluster grows, however, you can subdivide responsibilities. Nodes with fast disks and plenty of RAM might be great at indexing and searching data, whereas a node with plenty of CPU power and a tiny disk could manage cluster state. For more information about setting node types, see [Cluster formation]({{site.url}}{{site.baseurl}}/opensearch/cluster/).
 
 
 ## Indexes and documents

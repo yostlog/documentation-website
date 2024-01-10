@@ -36,6 +36,7 @@ This reference includes the REST APIs supported by OpenSearch. If a REST API is 
 - [Index APIs]({{site.url}}{{site.baseurl}}/api-reference/index-apis/index/)
 - [Index rollups API]({{site.url}}{{site.baseurl}}/im-plugin/index-rollups/rollup-api/)
 - [Index state management API]({{site.url}}{{site.baseurl}}/im-plugin/ism/api/)
+- [Injest APIs]({{site.url}}{{site.baseurl}}/api-reference/ingest-apis/index/)
 - [ISM error prevention API]({{site.url}}{{site.baseurl}}/im-plugin/ism/error-prevention/api/)
 - [Ingest APIs]({{site.url}}{{site.baseurl}}/api-reference/ingest-apis/index/)
 - [k-NN plugin API]({{site.url}}{{site.baseurl}}/search-plugins/knn/api/)

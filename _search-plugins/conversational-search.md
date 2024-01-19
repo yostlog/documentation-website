@@ -101,7 +101,7 @@ To make the conversation easily identifiable, use the optional `name` field in t
 ```json
 POST /_plugins/_ml/memory/conversation
 {
-  "name": Example conversation
+  "name": "Example conversation"
 }
 ```
 {% include copy-curl.html %}
